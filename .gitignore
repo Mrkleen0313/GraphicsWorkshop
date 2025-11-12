@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+GraphicsProject1/Saved/
+
+GraphicsProject1/Intermediate/
+
+GraphicsProject1/Binaries/
+
+GraphicsProject1/Build/
+
+GraphicsProject1/DerivedDataCache/
